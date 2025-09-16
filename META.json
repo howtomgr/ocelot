@@ -1,0 +1,61 @@
+{
+  "category": "api-gateways",
+  "created_date": "2025-09-15T22:48:58.490656",
+  "default_ports": [
+    80,
+    443,
+    5000
+  ],
+  "dependencies": [],
+  "description": "ocelot is a free and open-source .NET API gateway. Ocelot provides .NET Core API gateway",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/api-gateways/ocelot",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/api-gateways/ocelot",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.490683",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "ocelot",
+  "repository_url": "https://github.com/howtomgr/ocelot",
+  "spec_version": "2.0",
+  "subcategory": "api-gateways",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "api-gateways",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "ocelot Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/api-gateways/ocelot"
+}
